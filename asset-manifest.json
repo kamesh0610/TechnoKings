@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TechnoKings/static/css/main.a7522561.css",
+    "main.js": "/TechnoKings/static/js/main.e72c3bfd.js",
+    "static/js/453.e2e4d1f7.chunk.js": "/TechnoKings/static/js/453.e2e4d1f7.chunk.js",
+    "static/media/event-image.jpg": "/TechnoKings/static/media/event-image.7531f72178b686c7e944.jpg",
+    "static/media/paperpresentation.jpg": "/TechnoKings/static/media/paperpresentation.eba1bfa120c71762c597.jpg",
+    "index.html": "/TechnoKings/index.html",
+    "main.a7522561.css.map": "/TechnoKings/static/css/main.a7522561.css.map",
+    "main.e72c3bfd.js.map": "/TechnoKings/static/js/main.e72c3bfd.js.map",
+    "453.e2e4d1f7.chunk.js.map": "/TechnoKings/static/js/453.e2e4d1f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7522561.css",
+    "static/js/main.e72c3bfd.js"
+  ]
+}
